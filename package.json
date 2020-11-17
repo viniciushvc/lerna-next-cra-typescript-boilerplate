@@ -2,7 +2,15 @@
   "name": "lerna-next-cra-typescript-boilerplate",
   "version": "1.0.0",
   "author": "Vinicius Vicentini <viniciusvicentini@live.com>",
-  "keywords": ["lerna", "CRA", "typescript", "ts", "react", "lib", "boilerplate"],
+  "keywords": [
+    "lerna",
+    "CRA",
+    "typescript",
+    "ts",
+    "react",
+    "lib",
+    "boilerplate"
+  ],
   "license": "MIT",
   "scripts": {
     "bootstrap": "lerna bootstrap",
