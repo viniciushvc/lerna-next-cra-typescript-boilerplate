@@ -1,0 +1,17 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "author": "Vinicius Vicentini <viniciusvicentini@live.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "next": "9.3.2",
+    "components": "1.0.0"
+  }
+}

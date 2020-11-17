@@ -1,0 +1,13 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "author": "Vinicius Vicentini <viniciusvicentini@live.com>",
+  "dependencies": {
+    "@types/react-dom": "^16.9.9",
+    "react-scripts": "4.0.0",
+    "typescript": "^4.0.5"
+  },
+  "scripts": {
+    "start": "BROWSER=none react-scripts start"
+  }
+}
